@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Berzan</string>
+
+    <string name="tab_text_monday">MON</string>
+    <string name="tab_text_tuesday">TIS</string>
+    <string name="tab_text_wednesday">ONS</string>
+    <string name="tab_text_thursday">TOR</string>
+    <string name="tab_text_friday">FRI</string>
+
+    <string name="action_settings">Inställningar</string>
+
+    <string name="no_class_chosen">Ingen klass vald</string>
+    <string name="no_class_switch_later">Du kan byta senare i inställningarna</string>
+    <string name="no_class_choose">Välj klass</string>
+
+    <string name="title_activity_settings">Inställningar</string>
+</resources>

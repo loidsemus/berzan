@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:orientation="vertical"
+                  android:gravity="center"
+                  android:padding="16dp"
+                  android:id="@+id/classChooseLayout"
+                  android:visibility="visible">
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                  android:layout_marginBottom="16dp"
+                  android:text="@string/no_class_chosen"
+                  android:textSize="28sp"/>
+
+        <Button android:layout_width="128dp" android:layout_height="wrap_content"
+                android:id="@+id/chooseButton"
+                android:text="@string/no_class_choose"/>
+
+    </LinearLayout>
+
+    <com.github.chrisbanes.photoview.PhotoView
+            android:id="@+id/scheduleView"
+            android:contentDescription="schedule"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:src="@mipmap/ic_launcher"
+            android:visibility="gone"/>
+
+</FrameLayout>

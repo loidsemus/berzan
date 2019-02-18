@@ -1,0 +1,30 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+            android:key="general_category"
+            android:title="Generellt">
+
+        <ListPreference
+                android:key="schoolClass"
+                android:title="Klass"
+                android:summary="För vilken klass scheman ska visas"
+                android:icon="@drawable/ic_settings_class"
+                android:entries="@array/classes"
+                android:entryValues="@array/classes_values"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+            android:key="other_category"
+            android:title="Annat">
+
+        <SwitchPreference
+                android:key="debugMessages"
+                android:title="Debuggingmeddelanden"
+                android:summary="Visa vad som händer/ändras när du gör saker"
+                android:icon="@drawable/ic_settings_debug_messages"
+                android:defaultValue="false"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="classes">
+        <item>NA16A</item>
+        <item>NA16B</item>
+        <item>NA16C</item>
+        <item>NA17A</item>
+        <item>NA17B</item>
+        <item>NA17C</item>
+        <item>NA17D</item>
+        <item>NA18A</item>
+        <item>NA18B</item>
+        <item>NA18C</item>
+        <item>NA18D</item>
+        <item>SI18J</item>
+        <item>SI18K</item>
+        <item>TE16E</item>
+        <item>TE16F</item>
+        <item>TE16G</item>
+        <item>TE16H</item>
+        <item>TE16I</item>
+        <item>TE17E</item>
+        <item>TE17F</item>
+        <item>TE17G</item>
+        <item>TE17H</item>
+        <item>TE17I</item>
+        <item>TE18E</item>
+        <item>TE18F</item>
+        <item>TE18G</item>
+        <item>TE18H</item>
+        <item>TE18I</item>
+    </string-array>
+    <string-array name="classes_values">
+        <item>{1D2CB955-E0F9-478D-811D-3131068DCEAA}</item>
+        <item>{DB354481-958F-49B2-AF72-AFC462E924D2}</item>
+        <item>{288EC505-9DE4-4848-862A-35B1386486F0}</item>
+        <item>{73664CD4-8BF8-48E3-B66F-616C9351CFBD}</item>
+        <item>{272C6336-8F2F-441D-B997-FCC1336097FB}</item>
+        <item>{3A3C89C9-0E08-4CA9-9A0A-E11AD5FD67AA}</item>
+        <item>{80B6DC18-97BA-4467-9B5C-5FA9487940F4}</item>
+        <item>{044FD641-1650-4945-94BE-0F580DE7A43C}</item>
+        <item>{1A307301-079D-4C82-BDFF-F40B1528D3D8}</item>
+        <item>{563FA4C6-CB4D-46F0-AAD1-782BF5790975}</item>
+        <item>{6E22D771-743F-4244-9A9C-5D502C7E0DBB}</item>
+        <item>{0D80BB95-4735-4550-9E3E-1EE14F073D98}</item>
+        <item>{08556187-21F6-481F-B999-97136083379C}</item>
+        <item>{BE7CE574-9D60-49F9-ADC4-6D11C88B8841}</item>
+        <item>{AB02DAC4-8C2F-4264-9D6C-30441C75BA76}</item>
+        <item>{5A7AAA9D-3A8C-4BC4-8617-7AA8236AF6A6}</item>
+        <item>{163B3330-D1AF-4733-BEC7-4BEE451F381D}</item>
+        <item>{68DE0CE9-A175-4FE1-897E-203D82292777}</item>
+        <item>{EB17129B-DC42-43F9-A9D4-687E71E7AF56}</item>
+        <item>{0BAF67F0-2C59-4E74-B448-91CCA54036BA}</item>
+        <item>{C15899FA-86F4-4051-9ED0-47D160AF87B1}</item>
+        <item>{196E2974-F3C3-49E2-8820-24AA31440B1D}</item>
+        <item>{67719D8B-E5B3-4307-AC91-43D201930612}</item>
+        <item>{37E608BF-ACD5-409A-A616-D90809D84F59}</item>
+        <item>{A0EE195A-9DA1-446B-8403-41CB7F83CBD6}</item>
+        <item>{C1E8A61F-7738-4F36-A42E-046D51063776}</item>
+        <item>{1EA13114-6891-4D56-859F-D885C572D174}</item>
+        <item>{A222C589-D293-45A4-899B-8956A7FD0A43}</item>
+    </string-array>
+</resources>
